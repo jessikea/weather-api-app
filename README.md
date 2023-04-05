@@ -13,7 +13,7 @@ This is a weather API app that allows users to search for a city and pulls a 5 d
 - [License](#license)
 
 ## Screenshot of App
-![Screenshot](./assets/Weather%20Dashboard%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%203_30_2023%202_08_42%20PM.png)
+![Screenshot](./assets/Weather%20App%20and%201%20more%20page%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%204_4_2023%209_01_52%20PM.png)
 
 
 ## Credits
