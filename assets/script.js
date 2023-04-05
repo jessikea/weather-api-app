@@ -1,4 +1,4 @@
-const apiKey = "77ac543282c79533c2796093c3f6e43e";
+// const apiKey = "77ac543282c79533c2796093c3f6e43e";
 
 // Initialize variables
 let citySearch;
