@@ -165,12 +165,6 @@ input {
 
 /* col-sm */
 @media screen and (min-width: 640px) {
-  .forecast-card {
-    min-height: 300px;
-    min-width: 200px;
-    max-width: 250px;
-  }
-  
 
   .col-sm-auto {
     flex-grow: 1;
@@ -293,11 +287,6 @@ input {
 /* col-md */
 @media screen and (min-width: 768px) {
 
-  .forecast-card {
-    min-height: 300px;
-    min-width: 200px;
-    max-width: 250px;
-  }
   .col-md-auto {
     flex-grow: 1;
     flex-basis: 0;
@@ -418,11 +407,7 @@ input {
 
 /* col-lg */
 @media screen and (min-width: 992px) {
-  .forecast-card {
-    min-height: 300px;
-    min-width: 200px;
-    max-width: 250px;
-  }
+
   
   .col-md-auto {
     flex-grow: 1;
@@ -544,11 +529,7 @@ input {
 
 /* col-xl */
 @media screen and (min-width: 1200px) {
-  .forecast-card {
-    min-height: 300px;
-    min-width: 200px;
-    max-width: 250px;
-  }
+
   .col-xl-1 {
     flex: 0 0 8.33333%;
     max-width: 8.33333%;
